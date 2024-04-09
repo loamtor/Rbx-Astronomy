@@ -10,7 +10,11 @@ Star map:
 
 ![image](https://github.com/loamtor/Rbx-Astronomy/assets/118779491/e0ef3a71-a876-4660-a0ac-4a8b52efec2a)
 
-An earlier star map demo, viewed from outside:
+Star map viewed from outside:
+
+![image](https://github.com/loamtor/Rbx-Astronomy/assets/118779491/8fc58881-c0b7-450c-abee-ff116e4c2e0c)
+
+An earlier version of the star map demo:
 
 ![image](https://github.com/loamtor/Rbx-Astronomy/assets/118779491/b3ce4c39-94f6-4983-a7c8-14a2d238cb49)
 
