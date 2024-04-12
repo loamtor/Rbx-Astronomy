@@ -5,8 +5,7 @@ This includes a demo parsing of data from the BSC5 (Yale -- Bright Star Catalog 
 
 Star map:
 
-![image](https://github.com/loamtor/Rbx-Astronomy/assets/118779491/8a04ac85-fff4-4f48-af2a-a63d905b817f)
-
+![Screenshot 2024-04-11 232844](https://github.com/loamtor/Rbx-Astronomy/assets/118779491/3a299422-cc45-49ee-af81-77c21fe8e976)
 
 ![image](https://github.com/loamtor/Rbx-Astronomy/assets/118779491/e0ef3a71-a876-4660-a0ac-4a8b52efec2a)
 
